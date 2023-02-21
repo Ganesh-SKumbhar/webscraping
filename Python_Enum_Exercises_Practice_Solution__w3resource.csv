@@ -1,0 +1,6 @@
+,Questions,Solution
+1, Write a Python program to create an Enum object and display a member name and value,python-enum-exercise-1.php
+2, Write a Python program that iterates over an enum class and displays each member and their value,python-enum-exercise-2.php
+3, Write a Python program to display all the member names of an enum class ordered by their values,python-enum-exercise-3.php
+4, Write a Python program to get all values from an enum class,python-enum-exercise-4.php
+5, Write a Python program to get unique enumeration values,python-enum-exercise-5.php
